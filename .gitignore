@@ -1,0 +1,33 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / Next.js
+node_modules/
+.next/
+
+# Build files
+dist/
+build/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ML model artifacts
+*.joblib
+*.pkl
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
